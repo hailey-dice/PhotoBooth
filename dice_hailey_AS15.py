@@ -1,13 +1,4 @@
-#File Name: dice_hailey_AS15.py
-#File Path:
-#Run Command
-
-#Hailey Dice
-#10/14/2019
-#AS.05
-#Push Button Challenge:
-#Push button 1 to toggle the LED on/off. When the LED is on, push button 2 to cycle through
-#   different LED blink rates
+#Creates a branded photobooth strip of photos from RPi camera
 
 import PIL
 from PIL import Image
